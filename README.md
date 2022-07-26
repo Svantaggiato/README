@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Svantaggiato
+- 👀 I’m interested in Discord.js
+- 🌱 I’m currently learning Discord.js
+- 💞️ I’m looking to collaborate on FusionMC
+- 📫 How to contact me on Discord Svantaggiato#0631 
