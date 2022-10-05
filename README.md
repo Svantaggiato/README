@@ -1,12 +1,6 @@
-[![ThreeWhi's Profile](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/) 
-[![ThreeWhi's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/)
+[![Svantaggiato's Profile](https://github-readme-stats.vercel.app/api?username=Svantaggiato&theme=tokyonight)](https://github.com/Svantaggiato) 
+[![Svantaggiato's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Svantaggiato&theme=tokyonight)](https://github.com/Svantaggiato)
 
-<a href="https://github.com/ThreeWhi/AutoFeedLite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=AutoFeedLite&theme=tokyonight" />
-</a>
-<a href="https://github.com/ThreeWhi/TangerineMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=TangerineMC&theme=tokyonight" />
-</a>
 <br></br>
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
